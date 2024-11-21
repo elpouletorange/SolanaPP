@@ -2,15 +2,15 @@
   "name": "URI NAME",
   "symbol": "$URI",
   "image": "https://raw.githubusercontent.com/elpouletorange/SolanaPP/refs/heads/main/papapoultrylogo.png",
-  "description": "PNUT OF WALL ST. is back with the latest scoop on the crypto world, and this time, it's all about Solana. Get ready to go nuts with the latest news and updates from the Solana ecosystem!\n\nWebsite: https://www.pnut-ofwatllst.lol/\nTwitter: https://x.com/PNUTOFWALL\nTelegram: https://t.me/PnutOfWallStSOL",
+  "description": "URI NAME ($URI) is a test token!\n\nWebsite: https://duckduckgo.com/\nTwitter: https://duckduckgo.com/\nTelegram: https://duckduckgo.com/",
   "extensions": {
-    "website": "https://www.pnut-ofwatllst.lol/",
-    "twitter": "https://x.com/PNUTOFWALL",
-    "telegram": "https://t.me/PnutOfWallStSOL"
+    "website": "https://duckduckgo.com/",
+    "twitter": "https://duckduckgo.com/",
+    "telegram": "https://duckduckgo.com/"
   },
   "tags": ["Meme"],
   "creator": {
-    "name": "DEXLAB MINTING LAB",
-    "site": "https://www.dexlab.space"
+    "name": "Duck the duck",
+    "site": "https://duckduckgo.com/"
   }
 }
